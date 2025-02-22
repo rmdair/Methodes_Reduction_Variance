@@ -1,6 +1,6 @@
 set.seed(4)
 
-data <- read.csv2("https://rmdair.com/data/Donnees_LOSC.csv", header=F, stringsAsFactors = FALSE, na.strings = c(""))
+data <- read.csv2("https://rmdair.com/data/LOSC.csv", header=F, stringsAsFactors = FALSE, na.strings = c(""))
 X <- as.vector(as.matrix(data))
 X <- X[!is.na(X)]
 
