@@ -21,10 +21,10 @@ Le rapport couvre les aspects suivants :
 ➡️ [Méthodes de Réduction de la Variance (PDF)](./Methodes_Reduction_Variance.pdf)
 
 ## Code et Données  
-Le projet inclut plusieurs implémentations en **R** :
-- Estimation par variables de contrôle ([lien ici](./data/estimation_par_VC.R)).
-- Estimation par stratification ([lien ici](./data/estimation_par_ST.R)).
-- Analyse appliquée aux performances du LOSC via l'échantillonnage préférentiel ([lien ici](./data/estimation_par_EP_application_LOSC.R)).
+Le projet inclut plusieurs implémentations en **R** (accessibles via [ce lien](data/)) :
+- Estimation par variables de contrôle.
+- Estimation par stratification.
+- Analyse appliquée aux performances du LOSC via l'échantillonnage préférentiel.
   
 Les variances associées à ces méthodes sont comparées avec l'approche de Monte Carlo classique.
 
