@@ -21,7 +21,7 @@ The report covers the following aspects:
 ➡️ [Variance Reduction Methods (PDF)](Variance_Reduction_Methods.pdf)
 
 ## Code and Data  
-This project includes several **R** implementations (accessible via [this link](./data/)):
+This project includes several **R** implementations (accessible via [this link](../data/)):
 - Estimation using **Control Variates**.
 - Estimation using **Stratification**.
 - Application to LOSC performance analysis using **Importance Sampling**.
@@ -30,7 +30,7 @@ The variances obtained from these methods are compared with the standard Monte C
 
 **Dataset Used:**  
 Match data from LOSC over the last 20 seasons is available here:  
-➡️ [Check CSV Data](./data/LOSC.csv)
+➡️ [Check CSV Data](../data/LOSC.csv)
 
 ## References  
 - Rasmussen & Glynn, *Stochastic Simulation: Algorithms and Analysis*, Springer, 2009.  
