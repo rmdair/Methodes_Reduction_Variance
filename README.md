@@ -21,7 +21,7 @@ Le rapport couvre les aspects suivants :
 ➡️ [Méthodes de Réduction de la Variance (PDF)](./Methodes_Reduction_Variance.pdf)
 
 ## Code et Données  
-Le projet inclut plusieurs implémentations en **R** (accessibles via [ce lien](data/)) :
+Le projet inclut plusieurs implémentations en **R** (accessibles via [ce lien](src/)) :
 - Estimation par variables de contrôle.
 - Estimation par stratification.
 - Analyse appliquée aux performances du LOSC via l'échantillonnage préférentiel.
@@ -30,7 +30,7 @@ Les variances associées à ces méthodes sont comparées avec l'approche de Mon
 
 **Données utilisées :**  
 Les données des matchs du LOSC sur les 20 dernières saisons sont accessibles via :  
-➡️ [Consulter les données CSV](./data/Donnees_LOSC.csv)
+➡️ [Consulter les données CSV](data/LOSC.csv)
 
 ## Références  
 - Rasmussen & Glynn, *Stochastic Simulation: Algorithms and Analysis*, Springer, 2009.  
