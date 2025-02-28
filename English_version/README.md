@@ -21,7 +21,7 @@ The report covers the following aspects:
 ➡️ [Variance Reduction Methods (PDF)](Variance_Reduction_Methods.pdf)
 
 ## Code and Data  
-This project includes several **R** implementations (accessible via [this link](../data/)):
+This project includes several **R** implementations (accessible via [this link](../src/)):
 - Estimation using **Control Variates**.
 - Estimation using **Stratification**.
 - Application to LOSC performance analysis using **Importance Sampling**.
