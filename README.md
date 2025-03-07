@@ -1,4 +1,6 @@
-# Méthodes de Réduction de la Variance
+<div align="center">
+  <h1> Méthodes de Réduction de la Variance </h1>
+</div>
 
 ## Présentation  
 Les simulations de Monte Carlo sont des outils puissants pour estimer des quantités probabilistes complexes, mais elles souffrent souvent d'une **variance élevée** qui peut limiter leur efficacité, notamment dans l'étude des **événements rares**. Ce projet explore trois méthodes majeures de **réduction de la variance** pour améliorer la précision et réduire le coût computationnel :
@@ -17,8 +19,13 @@ Le rapport couvre les aspects suivants :
 - **Comparaison des performances des méthodes sur des cas concrets**.
 - **Application aux données du LOSC pour estimer la probabilité d’une victoire par au moins 8 buts d’écart**.
 
-**Consulter le rapport complet :**  
+**Consulter le rapport :**  
 ➡️ [Méthodes de Réduction de la Variance (PDF)](./Methodes_Reduction_Variance.pdf)
+
+**Version anglaise** (English version) :  
+➡️ [Variance Reduction Methods (PDF)](/English_version/Variance_Reduction_Methods.pdf)
+
+---
 
 ## Code et Données  
 Le projet inclut plusieurs implémentations en **R** (accessibles via [ce lien](src/)) :
@@ -31,6 +38,8 @@ Les variances associées à ces méthodes sont comparées avec l'approche de Mon
 **Données utilisées :**  
 Les données des matchs du LOSC sur les 20 dernières saisons sont accessibles via :  
 ➡️ [Consulter les données CSV](data/LOSC.csv)
+
+---
 
 ## Références  
 - Rasmussen & Glynn, *Stochastic Simulation: Algorithms and Analysis*, Springer, 2009.  
