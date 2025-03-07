@@ -2,7 +2,7 @@
   <h1> Méthodes de Réduction de la Variance </h1>
 </div>
 
-## Présentation  
+## Description  
 Les simulations de Monte Carlo sont des outils puissants pour estimer des quantités probabilistes complexes, mais elles souffrent souvent d'une **variance élevée** qui peut limiter leur efficacité, notamment dans l'étude des **événements rares**. Ce projet explore trois méthodes majeures de **réduction de la variance** pour améliorer la précision et réduire le coût computationnel :
 
 1. **Échantillonnage préférentiel (Importance Sampling)** : Modifie la distribution d'échantillonnage pour mieux capter les événements rares.
