@@ -1,4 +1,6 @@
-# Variance Reduction Methods
+<div align="center">
+  <h1> Variance Reduction Methods </h1>
+</div>
 
 ## Overview  
 Monte Carlo simulations are powerful tools for estimating complex probabilistic quantities, but they often suffer from **high variance**, which can limit their efficiency, particularly in the study of **rare events**. This project explores three major **variance reduction methods** to improve estimation accuracy while reducing computational cost:
